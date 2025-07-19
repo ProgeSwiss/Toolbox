@@ -1,7 +1,7 @@
 Release Note – Currency Exchange Rate Synchronization Solution
-Version: 0.2.0
-Release Date: 2025-01-19
-Solution Name: Currency Exchange Rate Synchronization
+  - Version: 0.2.0
+  - Release Date: 2025-01-19
+  - Solution Name: Currency Exchange Rate Synchronization
 
 Overview
   This initial release introduces a fully automated mechanism to keep currency exchange rates up to date across the environment, ensuring accurate financial data and reporting.
