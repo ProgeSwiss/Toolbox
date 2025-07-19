@@ -3,8 +3,10 @@ Release Note – Currency Exchange Rate Synchronization Solution
   - Release Date: 2025-01-19
   - Solution Name: Currency Exchange Rate Synchronization
 
+
 Overview
-  This initial release introduces a fully automated mechanism to keep currency exchange rates up to date across the environment, ensuring accurate financial data and reporting.
+  - This initial release introduces a fully automated mechanism to keep currency exchange rates up to date across the environment, ensuring accurate financial data and reporting.
+
 
 Key Features
   - Automated Daily Execution:
@@ -19,8 +21,10 @@ Key Features
   - Exchange Rate Logging:
     All updates are logged into a custom Dataverse table called Exchange Rate, providing traceability and historical insight.
 
+
 Purpose
   This solution ensures that the environment maintains consistent, accurate, and current exchange rate data, supporting finance-related processes and reporting with minimal maintenance effort.
+
 
 Dependencies
   - Custom Connector to FreeCurrencyAPI
